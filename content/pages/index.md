@@ -58,6 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/SailApp Header 1920x823.svg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
